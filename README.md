@@ -3,7 +3,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JBAKHRAMOV&theme=dark)
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/JBAKHRAMOV1) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/j.bakhramov1) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JBAKHRAMOV&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
